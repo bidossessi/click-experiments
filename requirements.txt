@@ -1,0 +1,4 @@
+Click
+-e ./sample.foo
+-e ./sample.bar
+-e ./sample.cli
