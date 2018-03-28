@@ -1,9 +1,0 @@
-sample/__init__.py
-sample.foo.egg-info/PKG-INFO
-sample.foo.egg-info/SOURCES.txt
-sample.foo.egg-info/dependency_links.txt
-sample.foo.egg-info/entry_points.txt
-sample.foo.egg-info/requires.txt
-sample.foo.egg-info/top_level.txt
-sample/foo/__init__.py
-sample/foo/cli.py

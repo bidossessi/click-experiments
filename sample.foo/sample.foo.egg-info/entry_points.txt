@@ -1,4 +1,0 @@
-
-        [console_scripts]
-        foo=sample.foo.cli:cli
-    

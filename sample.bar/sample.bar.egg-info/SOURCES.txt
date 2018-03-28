@@ -1,7 +1,0 @@
-sample/__init__.py
-sample.bar.egg-info/PKG-INFO
-sample.bar.egg-info/SOURCES.txt
-sample.bar.egg-info/dependency_links.txt
-sample.bar.egg-info/entry_points.txt
-sample.bar.egg-info/requires.txt
-sample.bar.egg-info/top_level.txt

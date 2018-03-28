@@ -1,3 +1,0 @@
-Click
-sample.foo
-sample.bar
